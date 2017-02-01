@@ -7,7 +7,7 @@ Time: 2017/02/01
 
 Code is By TianYu
 
-![Image](http://...)
+![Image](https://github.com/TyMaker/ST7567_LCD_Arduino_Drive/blob/master/Image/Image.jpg)
 
 MIT License
 
