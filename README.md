@@ -1,5 +1,5 @@
 
-This is ST7567 Drive Code by Tianyu
+--This is ST7567 Drive Code by Tianyu
 
 IDE : Arduino IDE 1.5.8
 
